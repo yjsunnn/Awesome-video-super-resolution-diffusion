@@ -32,9 +32,9 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **STAR**: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution | [Arxiv2025(Feb)](https://arxiv.org/abs/2501.02976) | [GitHub](https://github.com/NJU-PCALab/STAR)      | T2V-based |
 | **UltraVSR**: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space | [Arxiv2025(May)](https://arxiv.org/abs/2505.19958) |      | T2I-based, one-step |
 | **DOVE**: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution | [Arxiv2025(May)](https://arxiv.org/abs/2505.16239) |   [GitHub](https://github.com/zhengchen1999/DOVE/)   | T2V-based, one-step |
-| **LiftVSR**: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4×RTX4090s | [Arxiv2025(June)](https://arxiv.org/abs/2506.08529) |   [GitHub](https://github.com/kopperx/LiftVSR)   | T2I-based |
-| **DLoRAL**: One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution | [Arxiv2025(June)](https://arxiv.org/abs/2506.15591) |   [GitHub](https://github.com/yjsunnn/DLoRAL)   | T2I-based, one-step |
-| **SeedVR2**: One-Step Video Restoration via Diffusion Adversarial Post-Training | [Arxiv2025(June)](https://arxiv.org/abs/2506.05301) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Based on [SeedVR](https://arxiv.org/abs/2501.01320), one-step |
+| **LiftVSR**: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4×RTX4090s | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.08529) |   [GitHub](https://github.com/kopperx/LiftVSR)   | T2I-based |
+| **DLoRAL**: One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.15591) |   [GitHub](https://github.com/yjsunnn/DLoRAL)   | T2I-based, one-step |
+| **SeedVR2**: One-Step Video Restoration via Diffusion Adversarial Post-Training | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.05301) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Based on [SeedVR](https://arxiv.org/abs/2501.01320), one-step |
 
 
 <a id="2024-papers"></a>
