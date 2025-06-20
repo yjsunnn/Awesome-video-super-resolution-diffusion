@@ -2,6 +2,8 @@
 
 > A curated list of resources for **Video Super-Resolution (VSR)** using **Diffusion Models**.  
 > 一个关于 **基于扩散模型的视频超分辨率 (VSR)** 精选资源的列表。
+
+:star: If it is helpful to your videos or projects, please help star this repo. Thanks! :hugs:
 ---
 
 ## 📖 Table of Contents / 目录
