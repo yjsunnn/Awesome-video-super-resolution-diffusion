@@ -5,13 +5,14 @@
 ---
 
 ## 📖 Table of Contents / 目录
-- [Introduction / 简介](#introduction--简介)
-- [Papers / 论文](#papers--论文)
-  - [2025](#2025)
-  - [2024](#2024)
-- [Datasets / 数据集](#datasets--数据集)
+- [Introduction / 简介](#introduction)
+- [Papers / 论文](#papers)
+  - [2025](#2025-papers)
+  - [2024](#2024-papers)
+- [Datasets / 数据集](#datasets)
 ---
 
+<a id="introduction"></a>
 ## 🌟 Introduction / 简介
 This repository focuses on collecting resources related to **Video Super-Resolution (VSR)** using **Diffusion Models**, including papers, open-source code and datasets. It serves as a one-stop reference for researchers and developers interested in this field.
 
@@ -19,8 +20,10 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 
 ---
 
+<a id="papers"></a>
 ## 📄 Papers / 论文
 
+<a id="2025-papers"></a>
 ### 2025
 | Title                                                                                 | Published                                             | Code                                                    | Keywords                      |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|-------------------------------|
@@ -34,6 +37,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **SeedVR2**: One-Step Video Restoration via Diffusion Adversarial Post-Training | [arxiv2025](https://arxiv.org/abs/2506.05301) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Based on [SeedVR](https://arxiv.org/abs/2501.01320), one-step |
 
 
+<a id="2024-papers"></a>
 ### 2024
 | Title                                                                                                  | Published | Code                                                    | Keywords                      |
 |--------------------------------------------------------------------------------------------------------|-----------|---------------------------------------------------------|-------------------------------|
@@ -42,6 +46,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 
 ---
 
+<a id="datasets"></a>
 ## 📊 Datasets / 数据集
 - [REDS](https://seungjunnah.github.io/Datasets/reds.html) - 300 video sequences with resolution of 720×1280, and each video has 100 frames.  
 - [OpenVid-1M](https://huggingface.co/datasets/nkp37/OpenVid-1M) - A high-quality text-to-video dataset, and all videos in the OpenVid-1M dataset have resolutions of at least 512×512.  
