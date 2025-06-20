@@ -60,3 +60,9 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 ---
 
 :star: If it is helpful to your videos or projects, please help star this repo. Thanks! :hugs:
+
+<div>
+    <a href="https://github.com/yjsunnn/Awesome-video-super-resolution-diffusion/" target="_blank" style="text-decoration: none;">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=yjsunnn/Awesome-video-super-resolution-diffusion">
+    </a>
+</div>
