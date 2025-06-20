@@ -42,7 +42,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | Title                                                                                                  | Published | Code                                                    | Keywords                      |
 |--------------------------------------------------------------------------------------------------------|-----------|---------------------------------------------------------|-------------------------------|
 | **Upscale-A-Video**: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution         | [CVPR2024](https://arxiv.org/abs/2312.06640) | [GitHub](https://github.com/sczhou/Upscale-A-Video)     | T2I-based                     |
-| Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution             | [ECCV2024](https://arxiv.org/abs/2312.00853) | [GitHub](https://github.com/IanYeung/MGLD-VSR)          | T2I-based                     |
+| **MGLD-VSR**: Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution             | [ECCV2024](https://arxiv.org/abs/2312.00853) | [GitHub](https://github.com/IanYeung/MGLD-VSR)          | T2I-based                     |
 
 ---
 
