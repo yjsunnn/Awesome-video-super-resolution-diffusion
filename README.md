@@ -2,8 +2,6 @@
 
 > A curated list of resources for **Video Super-Resolution (VSR)** using **Diffusion Models**.  
 > 一个关于 **基于扩散模型的视频超分辨率 (VSR)** 精选资源的列表。
-
-:star: If it is helpful to your videos or projects, please help star this repo. Thanks! :hugs:
 ---
 
 ## 📖 Table of Contents / 目录
@@ -60,3 +58,5 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 - [UDM10](https://drive.google.com/file/d/1G4V4KZZhhfzUlqHiSBBuWyqLyIOvOs0W/edit) - 10 video sequences, each containing 32 consecutive frames with a resolution of 720x1272.
 - [VideoLQ](https://drive.google.com/drive/folders/1-1iJRNdqdFZWOnoUU4xG1Z1QhwsGwMDy) - 50 video sequences, with each sequence containing a variable number of frames ranging from 33 to 100.
 ---
+
+:star: If it is helpful to your videos or projects, please help star this repo. Thanks! :hugs:
