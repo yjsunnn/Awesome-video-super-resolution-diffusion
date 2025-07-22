@@ -23,19 +23,22 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 <a id="papers"></a>
 ## 📄 Papers / 论文
 
+> The following papers are arranged in chronological order based on their posting time on arXiv.  
+> 以下的论文排列顺序是按照在 arXiv 上发布的时间顺序排列的。
+
 <a id="2025-papers"></a>
 ### 2025
 | Title                                                                                 | Published                                             | Code                                                    | Keywords                      |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|-------------------------------|
 | **SeedVR**: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration | [CVPR2025(Jan)](https://arxiv.org/abs/2501.01320) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Train the full model on 256 NVIDIA H100-80G GPUs |
-| **DiffVSR**: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency | [Arxiv2025(Jan)](https://arxiv.org/abs/2501.10110v2) | [Project](https://xh9998.github.io/DiffVSR-project/)      | T2I-based |
-| **STAR**: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution | [Arxiv2025(Feb)](https://arxiv.org/abs/2501.02976) | [GitHub](https://github.com/NJU-PCALab/STAR)      | T2V-based |
+| **DiffVSR**: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency | [ICCV2025(Jan)](https://arxiv.org/abs/2501.10110v2) | [Project](https://xh9998.github.io/DiffVSR-project/)      | T2I-based |
+| **STAR**: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution | [ICCV2025(Feb)](https://arxiv.org/abs/2501.02976) | [GitHub](https://github.com/NJU-PCALab/STAR)      | T2V-based |
 | **UltraVSR**: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space | [Arxiv2025(May)](https://arxiv.org/abs/2505.19958) |      | T2I-based, one-step |
 | **DOVE**: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution | [Arxiv2025(May)](https://arxiv.org/abs/2505.16239) |   [GitHub](https://github.com/zhengchen1999/DOVE/)   | T2V-based, one-step |
 | **LiftVSR**: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4×RTX4090s | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.08529) |   [GitHub](https://github.com/kopperx/LiftVSR)   | T2I-based |
 | **DLoRAL**: One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.15591) |   [GitHub](https://github.com/yjsunnn/DLoRAL)   | T2I-based, one-step |
 | **SeedVR2**: One-Step Video Restoration via Diffusion Adversarial Post-Training | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.05301) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Based on [SeedVR](https://arxiv.org/abs/2501.01320), one-step |
-| **DAM-VSR**: Disentanglement of Appearance and Motion for Video Super-Resolution | [Arxiv2025(Jul)](https://arxiv.org/abs/2507.01012) | [GitHub](https://github.com/kongzhecn/DAM-VSR)      | I2V(Stable Video Diffusion)-based |
+| **DAM-VSR**: Disentanglement of Appearance and Motion for Video Super-Resolution | [SIGGRAPH2025(Jul)](https://arxiv.org/abs/2507.01012) | [GitHub](https://github.com/kongzhecn/DAM-VSR)      | I2V(Stable Video Diffusion)-based |
 | **TURBOVSR**: Fantastic Video Upscalers and Where to Find Them | [ICCV2025(Jul)](https://arxiv.org/abs/2506.23618) |      | I2V(LTX-Video)-based |
 
 
