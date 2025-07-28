@@ -40,7 +40,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **SeedVR2**: One-Step Video Restoration via Diffusion Adversarial Post-Training | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.05301) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Based on [SeedVR](https://arxiv.org/abs/2501.01320), one-step |
 | **DAM-VSR**: Disentanglement of Appearance and Motion for Video Super-Resolution | [SIGGRAPH2025(Jul)](https://arxiv.org/abs/2507.01012) | [GitHub](https://github.com/kongzhecn/DAM-VSR)      | I2V(Stable Video Diffusion)-based |
 | **TURBOVSR**: Fantastic Video Upscalers and Where to Find Them | [ICCV2025(Jul)](https://arxiv.org/abs/2506.23618) |      | I2V(LTX-Video)-based |
-| **RealisVSR**: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution | [Arxiv2025(Jul)](https://arxiv.org/abs/2507.19138) |      | T2V(Wan1.3B)-based |
+| **RealisVSR**: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution | [Arxiv2025(Jul)](https://arxiv.org/abs/2507.19138) |  [Github](https://zws98.github.io/RealisVSR-project/)    | T2V(Wan1.3B)-based |
 
 
 <a id="2024-papers"></a>
