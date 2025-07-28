@@ -40,7 +40,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **SeedVR2**: One-Step Video Restoration via Diffusion Adversarial Post-Training | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.05301) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Based on [SeedVR](https://arxiv.org/abs/2501.01320), one-step |
 | **DAM-VSR**: Disentanglement of Appearance and Motion for Video Super-Resolution | [SIGGRAPH2025(Jul)](https://arxiv.org/abs/2507.01012) | [GitHub](https://github.com/kongzhecn/DAM-VSR)      | I2V(Stable Video Diffusion)-based |
 | **TURBOVSR**: Fantastic Video Upscalers and Where to Find Them | [ICCV2025(Jul)](https://arxiv.org/abs/2506.23618) |      | I2V(LTX-Video)-based |
-
+| **RealisVSR**: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution | [Arxiv2025(Jul)](https://arxiv.org/abs/2507.19138) |      | T2V(Wan1.3B)-based |
 
 
 <a id="2024-papers"></a>
@@ -60,6 +60,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 - [YouHQ-Train](https://drive.google.com/file/d/1f8g8gTHzQq-cKt4s94YQXDwJcdjL59lK/view) - 38,576 videos witwh resolution of 1080 × 1920 for training, each of which has around 32 frames.
 - [RealVSR](https://github.com/IanYeung/RealVSR) - The dataset consists of 500 LR-HR sequence pairs with **real degradation**, each of which has 50 frames in length and 1024×512 pixels in size.
 - [YouHQ-Test](https://drive.google.com/file/d/1rkeBQJMqnRTRDtyLyse4k6Vg2TilvTKC/view) - 40 video clips for evaluation, each of which has around 32 frames.
+- [RealisVideo-4K-Test](https://huggingface.co/datasets/WisonZws/RealisVideo-4K) - 1,000 high-definition video(4K)-text pairs. 
 - [SPMCS](https://github.com/jiangsutx/SPMC_VideoSR) - 30 different videos, each of them contains 31 frames.
 - [UDM10](https://drive.google.com/file/d/1G4V4KZZhhfzUlqHiSBBuWyqLyIOvOs0W/edit) - 10 video sequences, each containing 32 consecutive frames with a resolution of 720x1272.
 - [VideoLQ](https://drive.google.com/drive/folders/1-1iJRNdqdFZWOnoUU4xG1Z1QhwsGwMDy) - 50 video sequences, with each sequence containing a variable number of frames ranging from 33 to 100.
