@@ -43,6 +43,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **RealisVSR**: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution | [Arxiv2025(Jul)](https://arxiv.org/abs/2507.19138) |  [Github](https://zws98.github.io/RealisVSR-project/)    | T2V(Wan2.1-1.3B)-based |
 | Semantic and Temporal Integration in Latent Diffusion Space for High-Fidelity Video Super-Resolution | [Arxiv2025(Aug)](https://arxiv.org/abs/2508.00471) |      | T2I(SD2.1)-based |
 | **Vivid-VR**: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration | [Arxiv2025(Aug)](https://arxiv.org/abs/2508.14483) | [Github](https://arxiv.org/pdf/2508.14483)     | T2V(CogVideoX1.5-5B)-based |
+| **OS-DiffVSR**: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution | [Arxiv2025(Sep)](https://arxiv.org/abs/2509.16507) |     | T2I(SD2.1)-based |
 
 <a id="2024-papers"></a>
 ### 2024
