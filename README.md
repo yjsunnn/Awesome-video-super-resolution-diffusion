@@ -46,7 +46,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **OS-DiffVSR**: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution | [Arxiv2025(Sep)](https://arxiv.org/abs/2509.16507) |     | T2I(SD2.1)-based |
 | Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution | [Arxiv2025(Sep)](https://arxiv.org/abs/2509.23980) |  [Github](https://github.com/jp-guo/OASIS)   | T2V(Wan2.1-1.3B)-based |
 | Asymmetric VAE for One-Step Video Super-Resolution Acceleration | [Arxiv2025(Sep)](https://arxiv.org/abs/2509.24142) |   [Github](https://github.com/JianzeLi-114/FastVSR)  | T2V(CogVideoX1.5-5B)-based |
-| **PatchVSR**: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution | [CVPR2025(Sep)](https://arxiv.org/abs/2509.26025) |     | T2V-based |
+| **PatchVSR**: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution | [CVPR2025(Sep)](https://arxiv.org/abs/2509.26025) | [Project](https://shiandu.github.io/PatchVSR-website/)    | T2V-based |
 | **L∀TINO**: Latent Video Consistency Inverse Solver for High Definition Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.01339) |    |     |
 | **InfVSR**: Breaking Length Limits of Generic Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.00948) |  [Github](https://github.com/Kai-Liu001/InfVSR)   | T2V(Wan2.1-1.3B)-based |
 
