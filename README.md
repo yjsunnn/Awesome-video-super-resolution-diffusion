@@ -49,6 +49,9 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **PatchVSR**: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution | [CVPR2025(Sep)](https://arxiv.org/abs/2509.26025) | [Project](https://shiandu.github.io/PatchVSR-website/)    | T2V-based |
 | **L∀TINO**: Latent Video Consistency Inverse Solver for High Definition Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.01339) |    |     |
 | **InfVSR**: Breaking Length Limits of Generic Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.00948) |  [Github](https://github.com/Kai-Liu001/InfVSR)   | T2V(Wan2.1-1.3B)-based |
+| **UniMMVSR**: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08143) |  [Project](https://shiandu.github.io/UniMMVSR-website/)   | T2V-based, hybrid-modal conditions |
+| **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video
+Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [Github](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
 
 
 
@@ -63,6 +66,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 
 <a id="datasets"></a>
 ## 📊 Datasets / 数据集
+- [LSDIR](https://huggingface.co/ofsoundof/LSDIR/tree/main) - High-quality image dataset that contains 84,991 training images, 1,000 validation images, and 1,000 test images.
 - [REDS](https://seungjunnah.github.io/Datasets/reds.html) - 300 video sequences with resolution of 720×1280, and each video has 100 frames.  
 - [OpenVid-1M](https://huggingface.co/datasets/nkp37/OpenVid-1M) - A high-quality text-to-video dataset, and all videos in the OpenVid-1M dataset have resolutions of at least 512×512.  
 - [WebVid-2M](https://opendatalab.com/OpenDataLab/WebVid-2M) - A large-scale dataset containing 2.5M text-video pairs with resolution of 336×596.
