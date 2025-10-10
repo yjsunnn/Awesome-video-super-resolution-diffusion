@@ -50,8 +50,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **L∀TINO**: Latent Video Consistency Inverse Solver for High Definition Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.01339) |    |     |
 | **InfVSR**: Breaking Length Limits of Generic Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.00948) |  [Github](https://github.com/Kai-Liu001/InfVSR)   | T2V(Wan2.1-1.3B)-based |
 | **UniMMVSR**: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08143) |  [Project](https://shiandu.github.io/UniMMVSR-website/)   | T2V-based, hybrid-modal conditions |
-| **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video
-Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [Github](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
+| **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [Github](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
 
 
 
