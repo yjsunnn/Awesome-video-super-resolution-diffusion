@@ -40,6 +40,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **LiftVSR**: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4×RTX4090s | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.08529) |   [GitHub](https://github.com/kopperx/LiftVSR)   | T2I(PixArt-α)-based |
 | **DLoRAL**: One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution | [NIPS2025(Jun)](https://arxiv.org/abs/2506.15591) |   [GitHub](https://github.com/yjsunnn/DLoRAL)   | T2I(SD2.1)-based, one-step |
 | **SeedVR2**: One-Step Video Restoration via Diffusion Adversarial Post-Training | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.05301) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Based on [SeedVR](https://arxiv.org/abs/2501.01320), one-step |
+| **SimpleGVR**: A Simple Baseline for Latent-Cascaded Video Super-Resolution | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.19838) |     | T2V-intialized, train on 16 NVIDIA H800-80G GPUs |
 | **DAM-VSR**: Disentanglement of Appearance and Motion for Video Super-Resolution | [SIGGRAPH2025(Jul)](https://arxiv.org/abs/2507.01012) | [GitHub](https://github.com/kongzhecn/DAM-VSR)      | I2V(Stable Video Diffusion)-based |
 | **TURBOVSR**: Fantastic Video Upscalers and Where to Find Them | [ICCV2025(Jul)](https://arxiv.org/abs/2506.23618) |      | I2V(LTX-Video)-based |
 | **RealisVSR**: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution | [Arxiv2025(Jul)](https://arxiv.org/abs/2507.19138) |  [Github](https://zws98.github.io/RealisVSR-project/)    | T2V(Wan2.1-1.3B)-based |
@@ -53,6 +54,11 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **InfVSR**: Breaking Length Limits of Generic Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.00948) |  [Github](https://github.com/Kai-Liu001/InfVSR)   | T2V(Wan2.1-1.3B)-based |
 | **UniMMVSR**: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08143) |  [Project](https://shiandu.github.io/UniMMVSR-website/)   | T2V-based, hybrid-modal conditions |
 | **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [Github](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
+| **FlashVSR**: Towards Real-time Diffusion-based Streaming Video Super-Resolution | [ICLR2026 Openreview Anonymous(Oct)](https://openreview.net/forum?id=gzynHSyjUe) |     | T2V(Wan 2.1–1.3B)-based |
+| **Stream-DiffVSR**: Low-latency Streamable Video Super-Resolution via Auto-regressive Diffusion | [ICLR2026 Openreview Anonymous(Oct)](https://openreview.net/forum?id=seyWxIzcAn) |     | T2I(SD x4 Upscaler)-based |
+| Improved Adversarial Diffusion Compression for Real-world Video Super-Resolution | [ICLR2026 Openreview Anonymous(Oct)](https://openreview.net/forum?id=U2SJE6W3wT) |     | T2I(SD2.1)-based |
+
+
 
 
 
