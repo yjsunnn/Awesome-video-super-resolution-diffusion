@@ -33,7 +33,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | Title                                                                                 | Published                                             | Code                                                    | Keywords                      |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|-------------------------------|
 | **SeedVR**: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration | [CVPR2025(Jan)](https://arxiv.org/abs/2501.01320) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Train the full model on 256 NVIDIA H100-80G GPUs |
-| **DiffVSR**: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency | [ICCV2025(Jan)](https://arxiv.org/abs/2501.10110v2) | [Code](https://github.com/xh9998/DiffVSR)      | T2I(SD x4 Upscaler)-based |
+| **DiffVSR**: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency | [ICCV2025(Jan)](https://arxiv.org/abs/2501.10110v2) | [GitHub](https://github.com/xh9998/DiffVSR)      | T2I(SD x4 Upscaler)-based |
 | **STAR**: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution | [ICCV2025(Feb)](https://arxiv.org/abs/2501.02976) | [GitHub](https://github.com/NJU-PCALab/STAR)      | T2V(CogVideoX-5B)-based |
 | **UltraVSR**: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space | [ACMMM2025(May)](https://arxiv.org/abs/2505.19958) | [GitHub](https://github.com/yongliuy/UltraVSR)     | T2I(SD)-based, one-step |
 | **DOVE**: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution | [NIPS2025(May)](https://arxiv.org/abs/2505.16239) |   [GitHub](https://github.com/zhengchen1999/DOVE/)   | T2V(CogVideoX1.5-5B)-based, one-step |
@@ -42,7 +42,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **SeedVR2**: One-Step Video Restoration via Diffusion Adversarial Post-Training | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.05301) | [GitHub](https://github.com/ByteDance-Seed/SeedVR)      | Based on [SeedVR](https://arxiv.org/abs/2501.01320), one-step |
 | **SimpleGVR**: A Simple Baseline for Latent-Cascaded Video Super-Resolution | [Arxiv2025(Jun)](https://arxiv.org/abs/2506.19838) |     | T2V-intialized, train on 16 NVIDIA H800-80G GPUs |
 | **DAM-VSR**: Disentanglement of Appearance and Motion for Video Super-Resolution | [SIGGRAPH2025(Jul)](https://arxiv.org/abs/2507.01012) | [GitHub](https://github.com/kongzhecn/DAM-VSR)      | I2V(Stable Video Diffusion)-based |
-| **TURBOVSR**: Fantastic Video Upscalers and Where to Find Them | [ICCV2025(Jul)](https://arxiv.org/abs/2506.23618) |      | I2V(LTX-Video)-based |
+| **TurboVSR**: Fantastic Video Upscalers and Where to Find Them | [ICCV2025(Jul)](https://arxiv.org/abs/2506.23618) |      | I2V(LTX-Video)-based |
 | **RealisVSR**: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution | [Arxiv2025(Jul)](https://arxiv.org/abs/2507.19138) |  [Github](https://zws98.github.io/RealisVSR-project/)    | T2V(Wan2.1-1.3B)-based |
 | Semantic and Temporal Integration in Latent Diffusion Space for High-Fidelity Video Super-Resolution | [Arxiv2025(Aug)](https://arxiv.org/abs/2508.00471) |      | T2I(SD2.1)-based |
 | **Vivid-VR**: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration | [Arxiv2025(Aug)](https://arxiv.org/abs/2508.14483) | [Github](https://arxiv.org/pdf/2508.14483)     | T2V(CogVideoX1.5-5B)-based |
@@ -52,11 +52,9 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **PatchVSR**: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution | [CVPR2025(Sep)](https://arxiv.org/abs/2509.26025) | [Project](https://shiandu.github.io/PatchVSR-website/)    | T2V-based |
 | **L∀TINO**: Latent Video Consistency Inverse Solver for High Definition Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.01339) |    |     |
 | **InfVSR**: Breaking Length Limits of Generic Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.00948) |  [Github](https://github.com/Kai-Liu001/InfVSR)   | T2V(Wan2.1-1.3B)-based |
-| **UniMMVSR**: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08143) |  [Project](https://shiandu.github.io/UniMMVSR-website/)   | T2V-based, hybrid-modal conditions |
-| **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [Github](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
-| **FlashVSR**: Towards Real-time Diffusion-based Streaming Video Super-Resolution | [ICLR2026 Openreview Anonymous(Oct)](https://openreview.net/forum?id=gzynHSyjUe) |     | T2V(Wan 2.1–1.3B)-based |
-| **Stream-DiffVSR**: Low-latency Streamable Video Super-Resolution via Auto-regressive Diffusion | [ICLR2026 Openreview Anonymous(Oct)](https://openreview.net/forum?id=seyWxIzcAn) |     | T2I(SD x4 Upscaler)-based |
-| Improved Adversarial Diffusion Compression for Real-world Video Super-Resolution | [ICLR2026 Openreview Anonymous(Oct)](https://openreview.net/forum?id=U2SJE6W3wT) |     | T2I(SD2.1)-based |
+| **UniMMVSR**: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08143) |  [GitHub](https://github.com/ShianDu/UniMMVSR)   | T2V-based, hybrid-modal conditions |
+| **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [GitHub](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
+| **FlashVSR**: Towards Real-time Diffusion-based Streaming Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.12747) | [GitHub](https://github.com/OpenImagingLab/FlashVSR)    | T2V(Wan 2.1–1.3B)-based |
 
 
 
