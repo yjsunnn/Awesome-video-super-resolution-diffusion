@@ -55,6 +55,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **UniMMVSR**: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08143) |  [GitHub](https://github.com/ShianDu/UniMMVSR)   | T2V-based, hybrid-modal conditions |
 | **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [GitHub](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
 | **FlashVSR**: Towards Real-time Diffusion-based Streaming Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.12747) | [GitHub](https://github.com/OpenImagingLab/FlashVSR)    | T2V(Wan 2.1–1.3B)-based |
+| Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features | [Arxiv2025(Nov)](https://arxiv.org/pdf/2511.16928) |     | T2I(SD x4 Upscaler)-based   |
 
 
 
