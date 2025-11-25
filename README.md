@@ -56,9 +56,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [GitHub](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
 | **FlashVSR**: Towards Real-time Diffusion-based Streaming Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.12747) | [GitHub](https://github.com/OpenImagingLab/FlashVSR)    | T2V(Wan 2.1–1.3B)-based |
 | Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features | [Arxiv2025(Nov)](https://arxiv.org/pdf/2511.16928) |     | T2I(SD x4 Upscaler)-based   |
-
-
-
+| **STCDiT**: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution | [Arxiv2025(Nov)](https://arxiv.org/pdf/2511.18786) |  [GitHub](https://github.com/JyChen9811/STCDiT)   | T2V(Wan2.1 T2V-1.3B and Wan 2.1 I2V-14B)-based   |
 
 
 <a id="2024-papers"></a>
