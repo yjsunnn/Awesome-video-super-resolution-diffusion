@@ -57,6 +57,8 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **FlashVSR**: Towards Real-time Diffusion-based Streaming Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.12747) | [GitHub](https://github.com/OpenImagingLab/FlashVSR)    | T2V(Wan 2.1–1.3B)-based |
 | Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features | [Arxiv2025(Nov)](https://arxiv.org/pdf/2511.16928) |     | T2I(SD x4 Upscaler)-based   |
 | **STCDiT**: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution | [Arxiv2025(Nov)](https://arxiv.org/pdf/2511.18786) |  [GitHub](https://github.com/JyChen9811/STCDiT)   | T2V(Wan2.1 T2V-1.3B and Wan 2.1 I2V-14B)-based   |
+| **CreativeVR**: Diffusion-Prior-Guided Approach for Structure and Motion Restoration in Generative and Real Videos | [Arxiv2025(Dec)](https://arxiv.org/pdf/2512.12060) |  [Project](https://daveishan.github.io/creativevr-webpage/)   | T2V(Wan2.1-1.3B)-based   |
+
 
 
 <a id="2024-papers"></a>
