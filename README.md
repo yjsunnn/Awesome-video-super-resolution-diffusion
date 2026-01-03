@@ -9,6 +9,7 @@
 ## 📖 Table of Contents / 目录
 - [Introduction / 简介](#introduction)
 - [Papers / 论文](#papers)
+  - [2026](#2026-papers)
   - [2025](#2025-papers)
   - [2024](#2024-papers)
 - [Datasets / 数据集](#datasets)
@@ -27,6 +28,12 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 
 > The following papers are arranged in chronological order based on their posting time on arXiv.  
 > 以下的论文排列顺序是按照在 arXiv 上发布的时间顺序排列的。
+
+<a id="2026-papers"></a>
+### 2026
+| Title                                                                                 | Published                                             | Code                                                    | Keywords                      |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|-------------------------------|
+
 
 <a id="2025-papers"></a>
 ### 2025
@@ -58,6 +65,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features | [Arxiv2025(Nov)](https://arxiv.org/pdf/2511.16928) |     | T2I(SD x4 Upscaler)-based   |
 | **STCDiT**: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution | [Arxiv2025(Nov)](https://arxiv.org/pdf/2511.18786) |  [GitHub](https://github.com/JyChen9811/STCDiT)   | T2V(Wan2.1 T2V-1.3B and Wan 2.1 I2V-14B)-based   |
 | **CreativeVR**: Diffusion-Prior-Guided Approach for Structure and Motion Restoration in Generative and Real Videos | [Arxiv2025(Dec)](https://arxiv.org/pdf/2512.12060) |  [Project](https://daveishan.github.io/creativevr-webpage/)   | T2V(Wan2.1-1.3B)-based   |
+| **Stream-DiffVSR**: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion | [Arxi2025(Dec)](https://arxiv.org/abs/2512.23709) | [GitHub](https://github.com/jamichss/Stream-DiffVSR)      | T2I(SD x4 Upscaler)-based |
 
 
 
