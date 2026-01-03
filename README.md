@@ -29,6 +29,8 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 > The following papers are arranged in chronological order based on their posting time on arXiv.  
 > 以下的论文排列顺序是按照在 arXiv 上发布的时间顺序排列的。
 
+> TODO: VSR models inherent in video foundation models.
+
 <a id="2026-papers"></a>
 ### 2026
 | Title                                                                                 | Published                                             | Code                                                    | Keywords                      |
