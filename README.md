@@ -82,11 +82,17 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 
 <a id="datasets"></a>
 ## 📊 Datasets / 数据集
+### Train
 - [LSDIR](https://huggingface.co/ofsoundof/LSDIR/tree/main) - High-quality image dataset that contains 84,991 training images, 1,000 validation images, and 1,000 test images.
 - [REDS](https://seungjunnah.github.io/Datasets/reds.html) - 300 video sequences with resolution of 720×1280, and each video has 100 frames.  
 - [OpenVid-1M](https://huggingface.co/datasets/nkp37/OpenVid-1M) - A high-quality text-to-video dataset, and all videos in the OpenVid-1M dataset have resolutions of at least 512×512.  
 - [WebVid-2M](https://opendatalab.com/OpenDataLab/WebVid-2M) - A large-scale dataset containing 2.5M text-video pairs with resolution of 336×596.
 - [YouHQ-Train](https://drive.google.com/file/d/1f8g8gTHzQq-cKt4s94YQXDwJcdjL59lK/view) - 38,576 videos witwh resolution of 1080 × 1920 for training, each of which has around 32 frames.
+- [UltraVideo](https://huggingface.co/datasets/APRIL-AIGC/UltraVideo) - A high-quality test-to-video dataset, containing 42K short videos (3∼10 seconds) and 17K long videos (≥10 seconds) with 4k/8k resolution.
+- [SpatialVID](https://huggingface.co/datasets/SpatialVID/SpatialVID) - A large-scale video dataset containing 2.7M 1280x720 clips. A subset of it [SpatialVID-HQ](https://huggingface.co/datasets/FelixYuan/SpatialVID-HQ) owns 365k clips with higher criterion on aesthetics and motion quality.
+- [Sekai](https://huggingface.co/datasets/Lixsp11/Sekai-Project) - A large-scale long video dataset containing Sekai-Real and Sekai-Game datasets, which provides 6620 hours of 720p real-world videos and 60 hours of 720p game-synthesized videos, respectively.
+
+### Test
 - [RealVSR](https://github.com/IanYeung/RealVSR) - The dataset consists of 500 LR-HR sequence pairs with **real degradation**, each of which has 50 frames in length and 1024×512 pixels in size.
 - [YouHQ-Test](https://drive.google.com/file/d/1rkeBQJMqnRTRDtyLyse4k6Vg2TilvTKC/view) - 40 video clips for evaluation, each of which has around 32 frames.
 - [RealisVideo-4K-Test](https://huggingface.co/datasets/WisonZws/RealisVideo-4K) - 1,000 high-definition video(4K)-text pairs. 
