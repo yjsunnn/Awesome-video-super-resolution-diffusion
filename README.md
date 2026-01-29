@@ -35,7 +35,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 ### 2026
 | Title                                                                                 | Published                                             | Code                                                    | Keywords                      |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|-------------------------------|
-
+| **OSDEnhancer**: Taming Real-World Space-Time Video Super-Resolution with One-Step Diffusion | [Arxiv2026(Jan)](https://arxiv.org/abs/2601.20308) | [Demo](https://www.youtube.com/watch?v=Qp93HvXNAi4&feature=youtu.be)      | T2V(CogVideoX1.5-5B)-based, one-step |
 
 <a id="2025-papers"></a>
 ### 2025
