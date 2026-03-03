@@ -39,6 +39,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **LSGQuant**: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.03182) | [Github](https://arxiv.org/abs/2602.03182)      | T2V(Wan2.1-1.3B)-based, quantization for one-step VSR|
 | **Tiled Prompts**: Overcoming Prompt Underspecification in Image and Video Super-Resolution | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.03342) |      | I2V(I2VGen-XL)-based, Use Qwen3-VL-8B-Instruct for stronger prompt|
 | **D^2-VR**: Degradation-Robust and Distilled Video Restoration with Synergistic Optimization Strategy | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.08395) |    | T2I(SD x4 Upscaler)-based|
+|Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution | [ICLR2026(Feb)](https://arxiv.org/abs/2603.00458) |    | T2I(SD2.1)-based, one-step|
 
 <a id="2025-papers"></a>
 ### 2025
