@@ -40,6 +40,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **Tiled Prompts**: Overcoming Prompt Underspecification in Image and Video Super-Resolution | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.03342) |      | I2V(I2VGen-XL)-based, Use Qwen3-VL-8B-Instruct for stronger prompt|
 | **D^2-VR**: Degradation-Robust and Distilled Video Restoration with Synergistic Optimization Strategy | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.08395) |    | T2I(SD x4 Upscaler)-based|
 |Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution | [ICLR2026(Feb)](https://arxiv.org/abs/2603.00458) |    | T2I(SD2.1)-based, one-step|
+| **SparkVSR**: Interactive Video Super-Resolution via Sparse Keyframe Propagation | [Arxiv2026(Mar)](https://arxiv.org/abs/2603.16864) | [Github](https://github.com/taco-group/SparkVSR)   | I2V(CogVideoX1.5-5B-I2V)-based, one-step|
 
 <a id="2025-papers"></a>
 ### 2025
