@@ -43,6 +43,8 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **SparkVSR**: Interactive Video Super-Resolution via Sparse Keyframe Propagation | [Arxiv2026(Mar)](https://arxiv.org/abs/2603.16864) | [Github](https://github.com/taco-group/SparkVSR)   | I2V(CogVideoX1.5-5B-I2V)-based, one-step|
 | **DUO-VSR**: Dual-Stream Distillation for One-Step Video Super-Resolution | [CVPR2026(Mar)](https://arxiv.org/abs/2603.22271) | [Github](https://github.com/cszy98/DUO-VSR)   | T2V(Wan2.1-1.3B)-based, one-step|
 | **InstaVSR**: Taming Diffusion for Efficient and Temporally Consistent Video Super-Resolution | [Arxiv2026(Mar)](https://arxiv.org/abs/2603.26134) |    | T2I(SD2.1)-based, one-step|
+| NTIRE2026 Challenge on Short-form UGC Video Restoration in the Wild with Generative Models: Datasets, Methods and Results | [NTIRE2026(Apr)](https://arxiv.org/abs/2604.10551) |    | UGC video, mainly T2V-based and one-step|
+
 
 <a id="2025-papers"></a>
 ### 2025
