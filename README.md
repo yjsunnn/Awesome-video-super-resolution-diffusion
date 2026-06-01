@@ -45,6 +45,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **InstaVSR**: Taming Diffusion for Efficient and Temporally Consistent Video Super-Resolution | [Arxiv2026(Mar)](https://arxiv.org/abs/2603.26134) |    | T2I(SD2.1)-based, one-step|
 | NTIRE2026 Challenge on Short-form UGC Video Restoration in the Wild with Generative Models: Datasets, Methods and Results | [NTIRE2026(Apr)](https://arxiv.org/abs/2604.10551) |    | UGC video, mainly T2V-based and one-step|
 | **DiffST**: Spatiotemporal-Aware Diffusion for Real-World Space-Time Video Super-Resolution | [Arxiv(May)](https://arxiv.org/abs/2605.13182) | [Github](https://github.com/zhengchen1999/DiffST)   | T2V(Wan2.1-1.3B)-based, one-step|
+| **DTG-Restore**: Training-Free Diffusion Refinement for Generative Video Super-Resolution | [Arxiv(Jun)](https://arxiv.org/abs/2605.30431) |    | T2V(Wan)-based, training-free|
 
 
 <a id="2025-papers"></a>
