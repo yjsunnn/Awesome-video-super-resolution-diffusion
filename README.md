@@ -46,7 +46,8 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | NTIRE2026 Challenge on Short-form UGC Video Restoration in the Wild with Generative Models: Datasets, Methods and Results | [NTIRE2026(Apr)](https://arxiv.org/abs/2604.10551) |    | UGC video, mainly T2V-based and one-step|
 | **DiffST**: Spatiotemporal-Aware Diffusion for Real-World Space-Time Video Super-Resolution | [Arxiv(May)](https://arxiv.org/abs/2605.13182) | [Github](https://github.com/zhengchen1999/DiffST)   | T2V(Wan2.1-1.3B)-based, one-step|
 | **DTG-Restore**: Training-Free Diffusion Refinement for Generative Video Super-Resolution | [Arxiv(Jun)](https://arxiv.org/abs/2605.30431) |    | T2V(Wan)-based, training-free|
-
+| **LiteVSR**: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution | [Arxiv(Jun)](https://arxiv.org/abs/2606.09250) |    | T2V(Wan2.2-TI2V-5B)-based|
+| **SwiftVR**: Real-Time One-Step Generative Video Restoration | [Arxiv(Jun)](https://arxiv.org/pdf/2606.09516) |  [Github](https://github.com/H-oliday/SwiftVR)  | T2V(Wan2.2-TI2V-5B)-based, one-step|
 
 <a id="2025-papers"></a>
 ### 2025
