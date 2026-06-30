@@ -49,6 +49,8 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **LiteVSR**: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution | [Arxiv(Jun)](https://arxiv.org/abs/2606.09250) |    | T2V(Wan2.2-TI2V-5B)-based|
 | **SwiftVR**: Real-Time One-Step Generative Video Restoration | [Arxiv(Jun)](https://arxiv.org/pdf/2606.09516) |  [Github](https://github.com/H-oliday/SwiftVR)  | T2V(Wan2.2-TI2V-5B)-based, one-step|
 | **RGFVR**: Reference-Guided Face Video Restoration with Flow Matching | [Arxiv(Jun)](https://arxiv.org/abs/2606.16401) |    | T2V(Wan2.1-1.3B)-based, face restoration|
+| **SATB-VR**: Training Few-Step Video Restoration Diffusion Model using SNR-Aware Trajectory Blending | [Arxiv(Jun)](https://arxiv.org/abs/2606.28677) | [Github](https://github.com/chenxx89/SATB-VR)   | T2V(CogVideoX1.5-5B)-based|
+| **DTI**: Dynamic Trajectory Initialization for Generative Face Video Super-Resolution | [Arxiv(Jun)](https://arxiv.org/abs/2606.29198) | [Github](https://github.com/MediaX-SJTU/DTI)   | T2V(Wan2.1-1.3B)-based, face restoration|
 
 <a id="2025-papers"></a>
 ### 2025
