@@ -40,7 +40,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **Tiled Prompts**: Overcoming Prompt Underspecification in Image and Video Super-Resolution | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.03342) |      | I2V(I2VGen-XL)-based, Use Qwen3-VL-8B-Instruct for stronger prompt|
 | **D^2-VR**: Degradation-Robust and Distilled Video Restoration with Synergistic Optimization Strategy | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.08395) |    | T2I(SD x4 Upscaler)-based|
 |Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution | [ICLR2026(Feb)](https://arxiv.org/abs/2603.00458) |    | T2I(SD2.1)-based, one-step|
-| **SparkVSR**: Interactive Video Super-Resolution via Sparse Keyframe Propagation | [Arxiv2026(Mar)](https://arxiv.org/abs/2603.16864) | [Github](https://github.com/taco-group/SparkVSR)   | I2V(CogVideoX1.5-5B-I2V)-based, one-step|
+| **SparkVSR**: Interactive Video Super-Resolution via Sparse Keyframe Propagation | [ECCV2026(Mar)](https://arxiv.org/abs/2603.16864) | [Github](https://github.com/taco-group/SparkVSR)   | I2V(CogVideoX1.5-5B-I2V)-based, one-step|
 | **DUO-VSR**: Dual-Stream Distillation for One-Step Video Super-Resolution | [CVPR2026(Mar)](https://arxiv.org/abs/2603.22271) | [Github](https://github.com/cszy98/DUO-VSR)   | T2V(Wan2.1-1.3B)-based, one-step|
 | **InstaVSR**: Taming Diffusion for Efficient and Temporally Consistent Video Super-Resolution | [Arxiv2026(Mar)](https://arxiv.org/abs/2603.26134) |    | T2I(SD2.1)-based, one-step|
 | NTIRE2026 Challenge on Short-form UGC Video Restoration in the Wild with Generative Models: Datasets, Methods and Results | [NTIRE2026(Apr)](https://arxiv.org/abs/2604.10551) |    | UGC video, mainly T2V-based and one-step|
@@ -50,7 +50,8 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **SwiftVR**: Real-Time One-Step Generative Video Restoration | [Arxiv(Jun)](https://arxiv.org/pdf/2606.09516) |  [Github](https://github.com/H-oliday/SwiftVR)  | T2V(Wan2.2-TI2V-5B)-based, one-step|
 | **RGFVR**: Reference-Guided Face Video Restoration with Flow Matching | [Arxiv(Jun)](https://arxiv.org/abs/2606.16401) |    | T2V(Wan2.1-1.3B)-based, face restoration|
 | **SATB-VR**: Training Few-Step Video Restoration Diffusion Model using SNR-Aware Trajectory Blending | [Arxiv(Jun)](https://arxiv.org/abs/2606.28677) | [Github](https://github.com/chenxx89/SATB-VR)   | T2V(CogVideoX1.5-5B)-based|
-| **DTI**: Dynamic Trajectory Initialization for Generative Face Video Super-Resolution | [Arxiv(Jun)](https://arxiv.org/abs/2606.29198) | [Github](https://github.com/MediaX-SJTU/DTI)   | T2V(Wan2.1-1.3B)-based, face restoration|
+| **DTI**: Dynamic Trajectory Initialization for Generative Face Video Super-Resolution | [ECCV2026(Jun)](https://arxiv.org/abs/2606.29198) | [Github](https://github.com/MediaX-SJTU/DTI)   | T2V(Wan2.1-1.3B)-based, face restoration|
+| **AVSR-Diff**: Scale-Agnostic Diffusion Priors for Temporally Consistent Arbitrary-Scale Video Super-Resolution | [ECCV2026(Jul)](https://arxiv.org/abs/2607.00987) | [Github](https://kaist-viclab.github.io/AVSR-Diff/)   | T2I(SD x4 Upscaler)-based |
 
 <a id="2025-papers"></a>
 ### 2025
@@ -75,9 +76,9 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | Asymmetric VAE for One-Step Video Super-Resolution Acceleration | [Arxiv2025(Sep)](https://arxiv.org/abs/2509.24142) |   [Github](https://github.com/JianzeLi-114/FastVSR)  | T2V(CogVideoX1.5-5B)-based, one-step |
 | **PatchVSR**: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution | [CVPR2025(Sep)](https://arxiv.org/abs/2509.26025) | [Project](https://shiandu.github.io/PatchVSR-website/)    | T2V-based |
 | **L∀TINO**: Latent Video Consistency Inverse Solver for High Definition Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.01339) |    |     |
-| **InfVSR**: Breaking Length Limits of Generic Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.00948) |  [Github](https://github.com/Kai-Liu001/InfVSR)   | T2V(Wan2.1-1.3B)-based, one-step |
+| **InfVSR**: Breaking Length Limits of Generic Video Super-Resolution | [ICML2026(Oct)](https://arxiv.org/abs/2510.00948) |  [Github](https://github.com/Kai-Liu001/InfVSR)   | T2V(Wan2.1-1.3B)-based, one-step |
 | **UniMMVSR**: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08143) |  [GitHub](https://github.com/ShianDu/UniMMVSR)   | T2V-based, hybrid-modal conditions |
-| **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration | [Arxiv2025(Oct)](https://arxiv.org/abs/2510.08508) |  [GitHub](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
+| **MoA-VR**: A Mixture-of-Agents System Towards All-in-One Video Restoration | [JSTSP2025(Oct)](https://arxiv.org/abs/2510.08508) |  [GitHub](https://github.com/MediaX-SJTU/MoA-VR)   | Agent-based video restoration |
 | **FlashVSR**: Towards Real-time Diffusion-based Streaming Video Super-Resolution | [CVPR2026(Oct)](https://arxiv.org/abs/2510.12747) | [GitHub](https://github.com/OpenImagingLab/FlashVSR)    | T2V(Wan 2.1–1.3B)-based, one-step |
 | Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features | [CVPR2026(Nov)](https://arxiv.org/abs/2511.16928) | [Github](https://github.com/tszssong/DGAF-VSR)    | T2I(SD x4 Upscaler)-based   |
 | **STCDiT**: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution | [CVPR2026(Nov)](https://arxiv.org/abs/2511.18786) |  [GitHub](https://github.com/JyChen9811/STCDiT)   | T2V(Wan2.1 T2V-1.3B and Wan 2.1 I2V-14B)-based   |
