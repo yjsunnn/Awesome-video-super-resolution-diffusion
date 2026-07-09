@@ -52,6 +52,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **SATB-VR**: Training Few-Step Video Restoration Diffusion Model using SNR-Aware Trajectory Blending | [Arxiv(Jun)](https://arxiv.org/abs/2606.28677) | [Github](https://github.com/chenxx89/SATB-VR)   | T2V(CogVideoX1.5-5B)-based|
 | **DTI**: Dynamic Trajectory Initialization for Generative Face Video Super-Resolution | [ECCV2026(Jun)](https://arxiv.org/abs/2606.29198) | [Github](https://github.com/MediaX-SJTU/DTI)   | T2V(Wan2.1-1.3B)-based, face restoration|
 | **AVSR-Diff**: Scale-Agnostic Diffusion Priors for Temporally Consistent Arbitrary-Scale Video Super-Resolution | [ECCV2026(Jul)](https://arxiv.org/abs/2607.00987) | [Github](https://kaist-viclab.github.io/AVSR-Diff/)   | T2I(SD x4 Upscaler)-based |
+| **FADRA**: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.06389) |    | T2V(Wan2.1-1.3B)-based, face restoration |
 
 <a id="2025-papers"></a>
 ### 2025
