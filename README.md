@@ -53,6 +53,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **DTI**: Dynamic Trajectory Initialization for Generative Face Video Super-Resolution | [ECCV2026(Jun)](https://arxiv.org/abs/2606.29198) | [Github](https://github.com/MediaX-SJTU/DTI)   | T2V(Wan2.1-1.3B)-based, face restoration|
 | **AVSR-Diff**: Scale-Agnostic Diffusion Priors for Temporally Consistent Arbitrary-Scale Video Super-Resolution | [ECCV2026(Jul)](https://arxiv.org/abs/2607.00987) | [Github](https://kaist-viclab.github.io/AVSR-Diff/)   | T2I(SD x4 Upscaler)-based |
 | **FADRA**: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.06389) |    | T2V(Wan2.1-1.3B)-based, face restoration |
+| **LPM**: Industrial-Scale Generative Video Restoration | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.13460) |    | Train from scratch |
 
 <a id="2025-papers"></a>
 ### 2025
