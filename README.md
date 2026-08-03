@@ -54,6 +54,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **AVSR-Diff**: Scale-Agnostic Diffusion Priors for Temporally Consistent Arbitrary-Scale Video Super-Resolution | [ECCV2026(Jul)](https://arxiv.org/abs/2607.00987) | [Github](https://kaist-viclab.github.io/AVSR-Diff/)   | T2I(SD x4 Upscaler)-based |
 | **FADRA**: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.06389) |    | T2V(Wan2.1-1.3B)-based, face restoration |
 | **LPM**: Industrial-Scale Generative Video Restoration | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.13460) |    | Train from scratch |
+| **TRaM-VSR**: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.22231) |  [Github](https://github.com/Ree1s/TRaM-VSR)  | Plug-and-play module |
 
 <a id="2025-papers"></a>
 ### 2025
