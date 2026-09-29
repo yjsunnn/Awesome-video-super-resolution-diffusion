@@ -55,6 +55,8 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **FADRA**: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.06389) |    | T2V(Wan2.1-1.3B)-based, face restoration |
 | **LPM**: Industrial-Scale Generative Video Restoration | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.13460) |    | Train from scratch |
 | **TRaM-VSR**: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.22231) |  [Github](https://github.com/Ree1s/TRaM-VSR)  | Plug-and-play module |
+| **LoCoVSR**: Local Context Diffusion Posterior Sampling for Video Super-Resolution | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.32742) |    | Based on pretrained DDPM, face restoration |
+
 
 <a id="2025-papers"></a>
 ### 2025
