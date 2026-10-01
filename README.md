@@ -57,6 +57,10 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **TRaM-VSR**: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution | [Arxiv2026(Jul)](https://arxiv.org/abs/2607.22231) |  [Github](https://github.com/Ree1s/TRaM-VSR)  | Plug-and-play module |
 | **PS-SR**:Pseudo-Single-StepVideoSuper-ResolutionviaSpeculativeDiffusion | [CVPR2026(Jul)](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_PS-SR_Pseudo-Single-Step_Video_Super-Resolution_via_Speculative_Diffusion_CVPR_2026_paper.pdf) |  [Github](https://github.com/HiDream-ai/PS-SR)  | T2V(Wan2.1-T2V-1.3B)-based |
 | **LoCoVSR**: Local Context Diffusion Posterior Sampling for Video Super-Resolution | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.32742) |    | Based on pretrained DDPM, face restoration |
+| **RelayVSR**: Large–small Model Collaboration for Efficient Rea-world Video Superresolution | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.37850) | [Github](https://github.com/kopperx/RelayVSR)   | TI2V(Wan2.2-TI2V-5B)-based, one-step |
+| **ReCaVSR**: One-Step Streaming Diffusion Video Super-Resolution with Recycled Latents and Learned Cache Routing | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.37831) | [Github](https://github.com/kopperx/ReCaVSR)   | TI2V(Wan2.2-TI2V-5B)-based, one-step streaming |
+| **FastVR**: Efficient Streaming Video Restoration with One-Step Diffusion | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.36757) | [Github](https://github.com/chenxx89/FastVR)   | TI2V(Wan2.2-TI2V-5B)-based, one-step streaming |
+| **SoL-Refiner**: Speed-of-Light One-Step Refinement for High-Resolution Video | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.37969) | [Github](https://github.com/NVlabs/Sana/tree/sol-engine/models/sol-refiner)   | TI2V(LTX-2.3-Refiner)-based, one-step streaming |
 
 
 <a id="2025-papers"></a>
