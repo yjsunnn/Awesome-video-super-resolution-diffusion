@@ -36,7 +36,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | Title                                                                                 | Published                                             | Code                                                    | Keywords                      |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|-------------------------------|
 | **OSDEnhancer**: Taming Real-World Space-Time Video Super-Resolution with One-Step Diffusion | [Arxiv2026(Jan)](https://arxiv.org/abs/2601.20308) | [Demo](https://www.youtube.com/watch?v=Qp93HvXNAi4&feature=youtu.be)      | T2V(CogVideoX1.5-5B)-based, one-step |
-| **LSGQuant**: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.03182) | [Github](https://github.com/zhengchen1999/LSGQuant)      | T2V(Wan2.1-1.3B)-based, quantization for one-step VSR|
+| **LSGQuant**: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution | [ICML2026(Feb)](https://arxiv.org/abs/2602.03182) | [Github](https://github.com/zhengchen1999/LSGQuant)      | T2V(Wan2.1-1.3B)-based, quantization for one-step VSR|
 | **Tiled Prompts**: Overcoming Prompt Underspecification in Image and Video Super-Resolution | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.03342) |      | I2V(I2VGen-XL)-based, Use Qwen3-VL-8B-Instruct for stronger prompt|
 | **D^2-VR**: Degradation-Robust and Distilled Video Restoration with Synergistic Optimization Strategy | [Arxiv2026(Feb)](https://arxiv.org/abs/2602.08395) |    | T2I(SD x4 Upscaler)-based|
 |Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution | [ICLR2026(Feb)](https://arxiv.org/abs/2603.00458) |    | T2I(SD2.1)-based, one-step|
@@ -61,7 +61,9 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **ReCaVSR**: One-Step Streaming Diffusion Video Super-Resolution with Recycled Latents and Learned Cache Routing | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.37831) | [Github](https://github.com/kopperx/ReCaVSR)   | TI2V(Wan2.2-TI2V-5B)-based, one-step streaming |
 | **FastVR**: Efficient Streaming Video Restoration with One-Step Diffusion | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.36757) | [Github](https://github.com/chenxx89/FastVR)   | TI2V(Wan2.2-TI2V-5B)-based, one-step streaming |
 | **SoL-Refiner**: Speed-of-Light One-Step Refinement for High-Resolution Video | [Arxiv2026(Sep)](https://arxiv.org/abs/2609.37969) | [Github](https://github.com/NVlabs/Sana/tree/sol-engine/models/sol-refiner)   | TI2V(LTX-2.3-Refiner)-based, one-step streaming |
-
+| High-Throughput Generative Video Super-Resolution on a Single Consumer GPU | [Arxiv2026(Oct)](https://arxiv.org/abs/2610.13179) |    | T2I(SD2.1)-based, one-step, training-free |
+| Streaming-Aware Diffusion for Real-Time Video Super-Resolution via Cross-Step Attention | [Arxiv2026(Oct)](https://arxiv.org/abs/2610.11746) |    | T2I-based, streaming |
+| **FlashVSR+**: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching | [Arxiv2026(Oct)](https://arxiv.org/abs/2610.17552) | [Github](https://github.com/OpenImagingLab/FlashVSR_Plus) | FlashVSR-based, one-step streaming, reward-guided distillation |
 
 <a id="2025-papers"></a>
 ### 2025
