@@ -66,6 +66,7 @@ This repository focuses on collecting resources related to **Video Super-Resolut
 | **FlashVSR+**: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching | [Arxiv2026(Oct)](https://arxiv.org/abs/2610.17552) | [Github](https://github.com/OpenImagingLab/FlashVSR_Plus) | FlashVSR-based, one-step streaming, reward-guided distillation |
 | **SCOPE-VSR**: A Broad-Coverage Training Dataset for Video Super-Resolution | [Arxiv2026(Oct)](https://arxiv.org/abs/2610.24604) | [Github](https://github.com/gyliao2768/SCOPE-VSR) | Proposed dataset contains 27,351 high-quality video; proposed method is T2V(Wan2.1-1.3B)-based.|
 | Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration | [Arxiv2026(Nov)](https://arxiv.org/pdf/2611.22874) | [Project](https://super-generative-prior.github.io/papers/hypi2vr) | T2I(HYPIR-Flux-dev)-based, one-step.|
+| FlexVSR: Continuous-Scale Super-Resolution for Streaming Video Generation | [Arxiv2026(Nov)](https://arxiv.org/abs/2611.26178v1) |  | T2V(Wan2.1-1.3B)-based |
 
 
 <a id="2025-papers"></a>
